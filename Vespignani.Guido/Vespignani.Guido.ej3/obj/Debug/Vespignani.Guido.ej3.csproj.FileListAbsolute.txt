@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.pdb
+C:\Users\alumno\Desktop\curso\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe.config
+C:\Users\alumno\Desktop\curso\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.exe
