@@ -22,23 +22,37 @@ namespace Vespignani.Guido.ej3
         public static void ImprimirEnColor()
         {
             Console.ForegroundColor = Sello.color;
-            System.Console.WriteLine(Sello.Imprimir());
+            Console.WriteLine(Sello.Imprimir());
             Console.ForegroundColor = ConsoleColor.Gray;
         }
         private static String ArmarMensaje()
         {
-            String retorno="";
-            int aux = Sello.mensaje.Length,i;
-            for (i = 0; i < aux + 2; i++)
+            String retorno;
+            if(TryParse(Sello.mensaje, out retorno))
             {
-                retorno = retorno+"*";
-            }
-            retorno = retorno + "\n*" + Sello.mensaje + "*\n";
-            for (i = 0; i < aux + 2; i++)
-            {
-                retorno = retorno + "*";
+                retorno = "";
+                int aux = Sello.mensaje.Length, i;
+                for (i = 0; i < aux + 2; i++)
+                {
+                    retorno = retorno + "*";
+                }
+                retorno = retorno + "\n*" + Sello.mensaje + "*\n";
+                for (i = 0; i < aux + 2; i++)
+                {
+                    retorno = retorno + "*";
+                }
             }
             return retorno;
+        }
+        public static Boolean TryParse(String x, out String y)
+        {     
+            if (x != null)
+            {
+                y = x;
+                return true;
+            }
+            y = "No existe el mensaje o ha sido eliminado.";
+            return false;         
         }
     }
 }

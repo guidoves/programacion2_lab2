@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespignani.Guido.ej3", "Vespignani.Guido.ej3\Vespignani.Guido.ej3.csproj", "{72AE3F8F-3451-44E7-80FA-7434321F21B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej04", "Ej04\Ej04.csproj", "{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{72AE3F8F-3451-44E7-80FA-7434321F21B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72AE3F8F-3451-44E7-80FA-7434321F21B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72AE3F8F-3451-44E7-80FA-7434321F21B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,13 +14,15 @@ namespace Vespignani.Guido.ej3
 
             Comparadora.MostrarEldelMedio(44,84,55);
             Sello.mensaje = "HOLA MUNDO";
-            System.Console.WriteLine(Sello.Imprimir());
-            System.Console.ReadLine();
-            System.Console.WriteLine(Sello.Imprimir()); 
-            System.Console.ReadLine();
+            Console.WriteLine(Sello.Imprimir());
+            Console.ReadLine();
+            Sello.Borrar();
+            Console.WriteLine(Sello.Imprimir()); 
+            Console.ReadLine();
+            Sello.mensaje = "COLOR";
             Sello.color = ConsoleColor.Red;
             Sello.ImprimirEnColor();
-            System.Console.ReadLine();
+            Console.ReadLine();
      
         }
     }
