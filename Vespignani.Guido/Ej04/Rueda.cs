@@ -19,8 +19,8 @@ namespace AutoPartes
 
         public String Mostrar()
         {
-            String retorno = this.marca + " " + this.tamanio;
-            return retorno;
+            String info = "Marca--" + this.marca + " " + "Tamaño--" + this.tamanio;
+            return info;
         }
     }
 }

@@ -11,3 +11,8 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Ve
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.pdb
+C:\Users\guido\Desktop\programacion2\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe.config
+C:\Users\guido\Desktop\programacion2\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.exe
+C:\Users\guido\Desktop\programacion2\Vespignani.Guido\Vespignani.Guido.ej3\bin\Debug\Vespignani.Guido.ej3.pdb
+C:\Users\guido\Desktop\programacion2\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.exe
+C:\Users\guido\Desktop\programacion2\Vespignani.Guido\Vespignani.Guido.ej3\obj\Debug\Vespignani.Guido.ej3.pdb
