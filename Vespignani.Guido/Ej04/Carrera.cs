@@ -44,13 +44,24 @@ namespace Ej04
                 auto5.AgregarKilometros(aux.Next(101));
                 auto6.AgregarKilometros(aux.Next(101));
             }
+            Auto ganador = Ganador();
+            Console.WriteLine("El ganador es: \n" + ganador.MostrarAuto() + " " + ganador.GetKms());
         }
         private Auto Ganador()   
         {
-            Auto ganador;
-            
+            Auto ganador = auto1;
+            if (auto2.GetKms() > ganador.GetKms())
+                ganador = auto2;
+            if (auto3.GetKms() > ganador.GetKms())
+                ganador = auto3;
+            if (auto4.GetKms() > ganador.GetKms())
+                ganador = auto4;
+            if (auto5.GetKms() > ganador.GetKms())
+                ganador = auto5;
+            if (auto6.GetKms() > ganador.GetKms())
+                ganador = auto6;
+            return ganador;
         }
-
     }
 
     

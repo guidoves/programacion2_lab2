@@ -16,6 +16,9 @@ namespace Ej04
             Carrera miCarrera = new Carrera();
             miCarrera.MostrarCarrera();
             Console.ReadLine();
+            miCarrera.PorTiempo(10);
+            Console.ReadLine();
+
             //Rueda rueda1 = new Rueda();
             //Rueda rueda2 = new Rueda();
 
