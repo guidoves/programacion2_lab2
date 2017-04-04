@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\bin\Debug\clase05.exe.config
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\bin\Debug\clase05.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\bin\Debug\clase05.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.csprojResolveAssemblyReference.cache
