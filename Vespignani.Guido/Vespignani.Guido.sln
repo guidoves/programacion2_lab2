@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibreria", "TestLibreri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCosa", "WindowsFormsCosa\WindowsFormsCosa.csproj", "{908A8C34-2B6E-49B0-A14C-19FB64F7433F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase06", "clase06\clase06.csproj", "{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{908A8C34-2B6E-49B0-A14C-19FB64F7433F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908A8C34-2B6E-49B0-A14C-19FB64F7433F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908A8C34-2B6E-49B0-A14C-19FB64F7433F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
