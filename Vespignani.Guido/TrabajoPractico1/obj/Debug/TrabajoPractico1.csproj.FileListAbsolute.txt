@@ -1,0 +1,9 @@
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache

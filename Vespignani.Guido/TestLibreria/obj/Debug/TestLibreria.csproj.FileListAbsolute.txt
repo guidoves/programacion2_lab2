@@ -6,3 +6,11 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.pdb

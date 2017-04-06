@@ -9,3 +9,14 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\Window
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csproj.GenerateResource.Cache
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\bin\Debug\Entidades.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\bin\Debug\Entidades.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Form1.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Properties.Resources.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csproj.GenerateResource.Cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.pdb

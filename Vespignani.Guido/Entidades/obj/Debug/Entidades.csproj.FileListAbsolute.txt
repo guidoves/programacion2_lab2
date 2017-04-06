@@ -3,3 +3,8 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\Entidades\bin\Debug\Entidades.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.dll
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Entidades\bin\Debug\Entidades.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Entidades\bin\Debug\Entidades.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Entidades\obj\Debug\Entidades.pdb
