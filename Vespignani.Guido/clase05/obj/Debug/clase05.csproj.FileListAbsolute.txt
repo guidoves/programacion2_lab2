@@ -9,3 +9,8 @@ C:\Users\guido\Desktop\clase\Vespignani.Guido\clase05\bin\Debug\clase05.pdb
 C:\Users\guido\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.csprojResolveAssemblyReference.cache
 C:\Users\guido\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.exe
 C:\Users\guido\Desktop\clase\Vespignani.Guido\clase05\obj\Debug\clase05.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\clase05\bin\Debug\clase05.exe.config
+C:\Users\guido\Desktop\asd\Vespignani.Guido\clase05\bin\Debug\clase05.exe
+C:\Users\guido\Desktop\asd\Vespignani.Guido\clase05\bin\Debug\clase05.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\clase05\obj\Debug\clase05.exe
+C:\Users\guido\Desktop\asd\Vespignani.Guido\clase05\obj\Debug\clase05.pdb

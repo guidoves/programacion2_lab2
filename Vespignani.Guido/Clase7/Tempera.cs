@@ -28,14 +28,14 @@ namespace Clase7
         #endregion
 
 
-        public static String Mostrar(Tempera a)
+        public static String mostrar(Tempera a)
         {
-            return a.Mostrar();
+            return a.mostrar();
         }
 
-        private String Mostrar()
+        private String mostrar()
         {
-            return this._marca + " " + this._color + " " + this._cantidad;
+            return this._marca + " " + this._color.ToString() + " " + this._cantidad.ToString();
         }
 
         public static Boolean operator ==(Tempera a, Tempera b)
@@ -54,20 +54,18 @@ namespace Clase7
         }
         public static explicit operator String(Tempera a)
         {
-            return a.Mostrar();
+            return Tempera.mostrar(a);
         }
         public static Tempera operator +(Tempera a, Tempera b)
         {
             if (a == b)
-                a._cantidad++;
+                a._cantidad += b._cantidad;
             return a;
         }
         public static Tempera operator +(Tempera a, int cantidad)
         {
-            a._cantidad = a._cantidad + cantidad;
+            a._cantidad =+ cantidad;
             return a;
         }
-
-        
     }
 }

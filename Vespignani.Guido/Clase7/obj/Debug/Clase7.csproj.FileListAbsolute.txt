@@ -2,3 +2,8 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase7\bin\Debug\Clase7.dll
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase7\bin\Debug\Clase7.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase7\obj\Debug\Clase7.dll
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase7\obj\Debug\Clase7.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Clase7\obj\Debug\Clase7.dll
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Clase7\bin\Debug\Clase7.dll
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Clase7\bin\Debug\Clase7.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Clase7\obj\Debug\Clase7.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Clase7\obj\Debug\Clase7.csprojResolveAssemblyReference.cache

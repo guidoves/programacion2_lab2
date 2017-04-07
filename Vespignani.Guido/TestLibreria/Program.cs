@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entidades;
+using Clase7;
 
 namespace TestLibreria
 {
@@ -11,9 +12,14 @@ namespace TestLibreria
     {
         static void Main(string[] args)
         {
-            Cosa miCosa = new Cosa();
-            Console.WriteLine(miCosa.Mostrar());
+            double[] array = {2.543,5.2123,76.8,20.9,9};
+
+            foreach (double i in array)
+            {
+                Console.WriteLine(i);
+            }
             Console.ReadLine();
+            
         }
     }
 }

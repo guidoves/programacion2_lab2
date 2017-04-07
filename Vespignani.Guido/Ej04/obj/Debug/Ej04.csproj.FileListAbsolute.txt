@@ -15,3 +15,8 @@ C:\Users\guido\Desktop\clase\Vespignani.Guido\Ej04\bin\Debug\Ej04.pdb
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Ej04\obj\Debug\Ej04.csprojResolveAssemblyReference.cache
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Ej04\obj\Debug\Ej04.exe
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Ej04\obj\Debug\Ej04.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Ej04\bin\Debug\Ej04.exe.config
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Ej04\bin\Debug\Ej04.exe
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Ej04\bin\Debug\Ej04.pdb
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Ej04\obj\Debug\Ej04.exe
+C:\Users\guido\Desktop\asd\Vespignani.Guido\Ej04\obj\Debug\Ej04.pdb

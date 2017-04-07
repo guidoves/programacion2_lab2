@@ -14,11 +14,10 @@ namespace Clase7
         private Paleta():this(5)
         {
         }
-        public Paleta(int cantidad):this()
+        public Paleta(int cantidad)
         {
             this._temperas = new Tempera[cantidad];
             this._cantMaxColores = cantidad;
-
         }
 
         private String mostrar()
@@ -27,7 +26,7 @@ namespace Clase7
 
             foreach(Tempera i in this._temperas)
             {
-                paleta = paleta + " " + Tempera.Mostrar(i);
+                paleta += " " + Tempera.mostrar(i);
             }
             return paleta;
         }
@@ -56,33 +55,38 @@ namespace Clase7
         }
         public static Paleta operator +(Paleta a, Tempera b)
         {
+            if (a == b)
+            {
+                Tempera aux = Paleta.buscarTempera(a, b);
+                aux += b;
+            }
+            else
+            {
+                Tempera aux = Paleta.buscarTempera(a, null);
+                aux = b;
+            }
+            return a;
+        }           
+        
+        private static Tempera buscarTempera(Paleta a, Tempera b)
+        {
+            Tempera ret = null;
             foreach (Tempera i in a._temperas)
             {
                 if (b == i)
-                    a._
-                return a;
+                    ret = a._temperas[i];
             }
-            foreach (Tempera i in a._temperas)
-            {
-                if (i == null)
-                {
-                    a._temperas[i] = b;
-                    break;
-                }
-            }
-            return a;
+            return ret;
         }
+        
         public static Paleta operator -(Paleta a, Tempera b)
         {
-            foreach (Tempera i in a._temperas)
-            {
-                if (b == i && a._cantMaxColores <= 0)
-                {
-                    a._temperas[i] = null;
-                    break;
-                }
-            }
-            return a;
+            if(a == b)
+        }
+
+        public static Paleta operator +(Paleta a, Paleta b)
+        {
+
         }
     }
 }
