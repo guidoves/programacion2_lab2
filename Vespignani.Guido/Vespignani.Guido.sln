@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespignani.Guido.ej3", "Vespignani.Guido.ej3\Vespignani.Guido.ej3.csproj", "{72AE3F8F-3451-44E7-80FA-7434321F21B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej04", "Ej04\Ej04.csproj", "{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}"
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase06", "clase06\clase06.csproj", "{F55A29B2-8C4C-4D3D-B5F1-11F46900D4A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabajoPractico1", "TrabajoPractico1\TrabajoPractico1.csproj", "{D02A4154-EB76-4EC7-B943-5D7EE798D3A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase7", "Clase7\Clase7.csproj", "{5D3D3CA8-0BA0-408A-92B4-0B5A459E4A6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{D02A4154-EB76-4EC7-B943-5D7EE798D3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D02A4154-EB76-4EC7-B943-5D7EE798D3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D02A4154-EB76-4EC7-B943-5D7EE798D3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3D3CA8-0BA0-408A-92B4-0B5A459E4A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3D3CA8-0BA0-408A-92B4-0B5A459E4A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3D3CA8-0BA0-408A-92B4-0B5A459E4A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3D3CA8-0BA0-408A-92B4-0B5A459E4A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
