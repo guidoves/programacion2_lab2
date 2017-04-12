@@ -24,3 +24,5 @@ C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.pdb
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.dll
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
