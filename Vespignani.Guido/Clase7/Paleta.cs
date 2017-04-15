@@ -8,7 +8,7 @@ namespace Clase7
 {
     public class Paleta
     {
-        #region Variables
+        #region Variables de instancia
 
         private Tempera[] _temperas;
         private int _cantMaxColores;
@@ -22,13 +22,42 @@ namespace Clase7
         }
         public Paleta(int cantidad)
         {
-            this._temperas = new Tempera[cantidad];
+            this._temperas = new Tempera[0];
             this._cantMaxColores = cantidad;
+            //for (int i = 0; i < this._temperas.Length; i++ )
+            //{ this._temperas[i] = new Tempera(ConsoleColor.Black, "pirilo", 8); }
         }
 
         #endregion
 
+        #region Indexador
 
+        public Tempera this[int index]
+        {
+            get
+            {
+                if (index < 0 || index >= this._temperas.GetLength(0))
+                {
+                    Console.WriteLine("Indice inválido.");
+                    Console.ReadLine();
+                    return null;
+                }
+                else
+                    return this._temperas[index];
+            }
+            set
+            {
+                if (index > 0 && index < this._temperas.GetLength(0))
+                    this._temperas[index] = value;
+                else 
+                    Console.WriteLine("Indice inválido.");
+                Console.ReadLine();
+            }
+        }
+
+        #endregion
+
+        #region Metodos de instancia
 
         private String mostrar()
         {
@@ -68,6 +97,10 @@ namespace Clase7
             return retValue;
         }
 
+        #endregion
+
+        #region Metodos de clase
+
         public static implicit operator Paleta(int a)
         {
             Paleta p = new Paleta(a);
@@ -80,11 +113,8 @@ namespace Clase7
         public static Boolean operator ==(Paleta a, Tempera b)
         {
             Boolean retValue = false;
-            foreach (Tempera i in a._temperas)
-            {
-                if (b == i)
-                    retValue = true;
-            }
+            if ((a.obtenerIndice(b) != -1))
+                retValue = true;
             return retValue;
         }
         public static Boolean operator !=(Paleta a, Tempera b)
@@ -98,31 +128,16 @@ namespace Clase7
                 int aux = a.obtenerIndice(b);
                 if(aux >= 0)
                 a._temperas[aux] += b;
-                //Tempera aux = Paleta.buscarTempera(a, b);
-                //aux += b;
             }
             else
             {
                 int aux = a.obtenerIndice(b);
                 if(aux >= 0)
                 a._temperas[aux] = b;   
-                //Tempera aux = Paleta.buscarTempera(a, null);
-                //aux = b;
             }
             return a;
         }
 
-        //private static Tempera buscarTempera(Paleta a, Tempera b)
-        //{
-        //    Tempera ret = null;
-        //    foreach (Tempera i in a._temperas)
-        //    {
-        //        if (b == i)
-        //            ret = a._temperas[i];
-        //    }
-        //    return ret;
-        //}
-        
         public static Paleta operator -(Paleta a, Tempera b)
         {
             if (a == b)
@@ -134,6 +149,7 @@ namespace Clase7
                     a._temperas[aux] = null;
                 else
                 {
+                    a._temperas[aux] += -(cantidadA-cantidadB);
                 }
             }
             return a;
@@ -149,5 +165,7 @@ namespace Clase7
             }
             return c;
         }
+
+        #endregion
     }
 }

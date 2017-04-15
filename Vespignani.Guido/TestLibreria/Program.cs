@@ -12,12 +12,8 @@ namespace TestLibreria
     {
         static void Main(string[] args)
         {
-            double[] array = {2.543,5.2123,76.8,20.9,9};
-
-            foreach (double i in array)
-            {
-                Console.WriteLine(i);
-            }
+            Paleta a = new Paleta(5);
+            Console.WriteLine((String)a);
             Console.ReadLine();
             
         }
