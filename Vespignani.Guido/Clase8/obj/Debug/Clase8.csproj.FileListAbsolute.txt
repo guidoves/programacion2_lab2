@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\bin\Debug\Clase8.exe.config
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\bin\Debug\Clase8.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\bin\Debug\Clase8.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\obj\Debug\Clase8.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\obj\Debug\Clase8.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase8\obj\Debug\Clase8.csprojResolveAssemblyReference.cache

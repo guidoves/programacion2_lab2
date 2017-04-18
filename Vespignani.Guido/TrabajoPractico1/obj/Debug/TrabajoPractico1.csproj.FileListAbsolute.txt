@@ -24,3 +24,4 @@ C:\Users\guido\Desktop\asd\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPr
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
 C:\Users\guido\Desktop\ASD\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
