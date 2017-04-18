@@ -10,3 +10,16 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\Wind
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmPrincipal.resources
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmTempera.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\bin\Debug\WindowsFormsClase9.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\bin\Debug\WindowsFormsClase9.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\bin\Debug\WindowsFormsClase9.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\bin\Debug\clase9.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\bin\Debug\clase9.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmMostrar1.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmPrincipal.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmTempera.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.Properties.Resources.resources
+C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.csproj.GenerateResource.Cache

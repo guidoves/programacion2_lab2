@@ -14,9 +14,12 @@ namespace WindowsFormsClase9
     public partial class FrmTempera : Form
     {
         private Tempera _tempera;
+        
+        
         public Tempera Tempera
         {
             get { return this._tempera; }
+            
         }
 
         public FrmTempera()
@@ -24,21 +27,21 @@ namespace WindowsFormsClase9
             InitializeComponent();
             foreach (ConsoleColor i in Enum.GetValues(typeof(ConsoleColor)))
             {
-                this.comboBox1.Items.Add(i);
+                this.cmbColor.Items.Add(i);
             }
             
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnAceptar_Click(object sender, EventArgs e)
         {
-            Tempera tempera = new Tempera((ConsoleColor)comboBox1.SelectedItem,(String)textBox1.Text,int.Parse(textBox3.Text));
+            Tempera tempera = new Tempera((ConsoleColor)cmbColor.SelectedItem,(String)txtMarca.Text,int.Parse(txtCantidad.Text));
             this._tempera = tempera;
             //MessageBox.Show(Tempera.mostrar(tempera));
             this.DialogResult = System.Windows.Forms.DialogResult.OK;
-            
+           
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.DialogResult = System.Windows.Forms.DialogResult.Cancel;
         }
