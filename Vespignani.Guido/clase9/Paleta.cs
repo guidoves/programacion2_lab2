@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase7
+namespace Clase9
 {
     public class Paleta
     {
@@ -83,13 +83,12 @@ namespace Clase7
         }
         public static Boolean operator ==(Paleta a, Tempera b)
         {
-            Boolean retValue = false;
-            foreach(Tempera i in a._temperas)
+            foreach (Tempera item in a._temperas)
             {
-                if (i == b)
+                if (item == b)
                     return true;
-            }
-            return retValue;
+            } 
+            return false;
         }
         public static Boolean operator !=(Paleta a, Tempera b)
         {
@@ -99,9 +98,8 @@ namespace Clase7
         {
             if (a == b)
             {
-
-                int aux = a._temperas.IndexOf(b);
-                a._temperas[aux] += b;
+                int index = a._temperas.IndexOf(b);
+                a._temperas[index] += b;
             }
             else
             {
@@ -115,14 +113,14 @@ namespace Clase7
         {
             if (a == b)
             {
-                int aux = a._temperas.IndexOf(b);
-                int cantidadA = a._temperas[aux];
+                int index = a._temperas.IndexOf(b);
+                int cantidadA = a._temperas[index];
                 int cantidadB = b;
                 if ((cantidadA - cantidadB) <= 0)
-                    a._temperas[aux] = null;
+                    a._temperas[index] = null;
                 else
                 {
-                    a._temperas[aux] += -(cantidadA-cantidadB);
+                    a._temperas[index] += -(cantidadA-cantidadB);
                 }
             }
             return a;
