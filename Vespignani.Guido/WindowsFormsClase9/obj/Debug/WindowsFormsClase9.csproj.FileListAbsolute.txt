@@ -23,3 +23,4 @@ C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\Windo
 C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmTempera.resources
 C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.Properties.Resources.resources
 C:\Users\guido\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\WindowsFormsClase9\obj\Debug\WindowsFormsClase9.FrmMostrar1.resources
