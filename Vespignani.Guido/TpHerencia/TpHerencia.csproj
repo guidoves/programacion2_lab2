@@ -40,7 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Auto.cs" />
-    <Compile Include="EMarcas.cs" />
+    <Compile Include="Camion.cs" />
+    <Compile Include="Enumerados.cs" />
+    <Compile Include="Lavadero.cs" />
+    <Compile Include="Moto.cs" />
     <Compile Include="Vehiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

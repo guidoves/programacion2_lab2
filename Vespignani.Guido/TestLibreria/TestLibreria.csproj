@@ -48,13 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clase7\Clase7.csproj">
-      <Project>{5d3d3ca8-0ba0-408a-92b4-0b5a459e4a6d}</Project>
-      <Name>Clase7</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{05a1c4c8-ce1c-4376-83ca-f99765b031e5}</Project>
-      <Name>Entidades</Name>
+    <ProjectReference Include="..\TpHerencia\TpHerencia.csproj">
+      <Project>{caa0a839-16cb-4f23-8c42-23002e8acec2}</Project>
+      <Name>TpHerencia</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

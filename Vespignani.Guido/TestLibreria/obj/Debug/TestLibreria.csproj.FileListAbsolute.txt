@@ -1,8 +1,6 @@
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.exe.config
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TestLibreria.pdb
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.dll
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.pdb
@@ -24,5 +22,5 @@ C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\obj\Debug\TestLibreria.pdb
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.dll
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.dll
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TpHerencia.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TpHerencia.pdb

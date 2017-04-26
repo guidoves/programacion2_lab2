@@ -10,9 +10,16 @@ namespace TpHerencia
     {
         protected int _cantidadAsientos;
 
-        public Auto(string patente, byte ruedas, EMarcas marca, int asientos): base(patente,ruedas,marca)
+        public Auto(string patente, byte ruedas, EMarca marca, int asientos): base(patente,ruedas,marca)
         {
             this._cantidadAsientos = asientos;
+        }
+
+        public string MostrarAuto()
+        {
+            string auto = Mostrar() + 
+                this._cantidadAsientos.ToString() + "\n";
+            return auto;
         }
 
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TpHerencia
 {
-    enum EMarcas
+    public enum EMarca
     {
         HONDA,
         FORD,
@@ -14,5 +14,11 @@ namespace TpHerencia
         SCANIA,
         IVECO,
         FIAT
+    }
+    public enum EVehiculos
+    {
+        AUTO,
+        CAMION,
+        MOTO
     }
 }

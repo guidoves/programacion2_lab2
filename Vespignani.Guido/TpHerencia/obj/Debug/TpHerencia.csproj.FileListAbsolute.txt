@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TpHerencia\obj\Debug\TpHerencia.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TpHerencia\bin\Debug\TpHerencia.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TpHerencia\bin\Debug\TpHerencia.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TpHerencia\obj\Debug\TpHerencia.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TpHerencia\obj\Debug\TpHerencia.pdb

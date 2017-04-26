@@ -10,10 +10,10 @@ namespace TpHerencia
     {
         protected string _patente;
         protected byte _cantRuedas;
-        protected EMarcas _marca;
+        protected EMarca _marca;
         
         #region Constructores
-        public Vehiculo(string patente, byte ruedas, EMarcas marca)
+        public Vehiculo(string patente, byte ruedas, EMarca marca)
         {
             this._patente = patente;
             this._cantRuedas = ruedas;
@@ -26,7 +26,7 @@ namespace TpHerencia
         {
             get { return this._patente; }
         }
-        public EMarcas Marca
+        public EMarca Marca
         {
             get { return this._marca; }
         }
