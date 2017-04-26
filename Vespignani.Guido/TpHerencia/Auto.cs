@@ -17,9 +17,14 @@ namespace TpHerencia
 
         public string MostrarAuto()
         {
-            string auto = Mostrar() + 
-                this._cantidadAsientos.ToString() + "\n";
-            return auto;
+            StringBuilder auto = new StringBuilder();
+            auto.AppendLine("___________________________________");
+            auto.AppendLine("Tipo de vehiculo: Auto");
+            auto.AppendLine(Mostrar());
+            auto.AppendLine("Cantidad de asientos: " + this._cantidadAsientos.ToString());
+            auto.AppendLine("___________________________________");
+   
+            return auto.ToString();
         }
 
     }

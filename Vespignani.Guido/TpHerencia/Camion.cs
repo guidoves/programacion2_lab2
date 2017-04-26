@@ -17,9 +17,14 @@ namespace TpHerencia
 
         public string MostrarCamion()
         {
-            string camion = Mostrar() +
-                this._tara.ToString() + "\n";
-            return camion;
+            StringBuilder camion = new StringBuilder();
+            camion.AppendLine("___________________________________");
+            camion.AppendLine("Tipo de vehiculo: Camion");
+            camion.AppendLine(Mostrar());
+            camion.AppendLine("Peso Kg tara: " + this._tara.ToString());
+            camion.AppendLine("___________________________________");
+
+            return camion.ToString();
         }
     }
 }

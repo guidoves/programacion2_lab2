@@ -8,11 +8,14 @@ namespace TpHerencia
 {
     public class Lavadero
     {
+        #region Variables de instancia
         private List<Vehiculo> _vehiculos;
         private float _precioAuto;
         private float _precioCamion;
         private float _precioMoto;
+        #endregion
 
+        #region Constructores
         public Lavadero(float pAuto, float pCamion,float pMoto):this()
         {
             this._precioAuto = pAuto;
@@ -23,27 +26,30 @@ namespace TpHerencia
         {
             this._vehiculos = new List<Vehiculo>();
         }
+        #endregion
 
         #region Propiedades
         public String LavaderoInfo
         {
             get 
             {
-                string informacion = "Precio por Auto: " + "$" + this._precioAuto.ToString() + "\n" +
-                    "Precio por Camion: " + "$" + this._precioCamion.ToString() + "\n" +
-                    "Precio por Moto: " + "$" + this._precioMoto.ToString() + "\n" +
-                    "Lista de vehiculos:" + "\n";
+                StringBuilder informacion = new StringBuilder();
+                informacion.AppendLine("***********************************LAVADERO***********************************");
+                informacion.AppendLine("Precio p/Camion: " + "$" + this._precioCamion.ToString());
+                informacion.AppendLine("Precio p/Auto: " + "$" + this._precioAuto.ToString());
+                informacion.AppendLine("Precio p/Moto: " + "$" + this._precioMoto.ToString());
+                informacion.AppendLine("Lista de vehiculos:");
                 foreach (Vehiculo item in this._vehiculos)
                 {
-                    if (item is Auto)
-                        informacion += ((Auto)item).MostrarAuto();
-                    else if (item is Camion)
-                        informacion += ((Camion)item).MostrarCamion();
+                    if(item is Auto)
+                        informacion.AppendLine(((Auto)item).MostrarAuto());
+                    else if(item is Camion)
+                        informacion.AppendLine(((Camion)item).MostrarCamion());
                     else
-                        informacion += ((Moto)item).MostrarMoto();
+                        informacion.AppendLine(((Moto)item).MostrarMoto());
                 }
-                return informacion;
-
+                informacion.AppendLine("***********************************LAVADERO***********************************");
+                return informacion.ToString();
             }        
         }
         public List<Vehiculo> Vehiculos
@@ -52,6 +58,7 @@ namespace TpHerencia
         }
 #endregion
 
+        #region Sobrecargas
         public static bool operator ==(Lavadero a, Vehiculo b)
         {
             foreach (Vehiculo item in a._vehiculos)
@@ -83,7 +90,14 @@ namespace TpHerencia
             }
             return a;
         }
+        #endregion
 
+        #region Metodos
+        /// <summary>
+        /// Calcula y retorna el total facturado.
+        /// </summary>
+        /// <returns>Devuelve el total.</returns>
+        /// 
         public double MostrarTotalFacturado()
         {
             double total = 0;
@@ -101,34 +115,18 @@ namespace TpHerencia
         public double MostrarTotalFacturado(EVehiculos vehiculo)
         {
             double total = 0;
-
-            if (vehiculo == EVehiculos.AUTO)
+            foreach (Vehiculo item in this._vehiculos)
             {
-                foreach (Vehiculo item in this._vehiculos)
-                {
-                    if (item is Auto)
-                        total += this._precioAuto;
-                }
-            }
-            else if (vehiculo == EVehiculos.CAMION)
-            {
-                foreach (Vehiculo item in this._vehiculos)
-                {
-                    if (item is Camion)
-                        total += this._precioCamion;
-                }
-            }
-            else
-            {
-                foreach (Vehiculo item in this._vehiculos)
-                {
-                    if (item is Moto)
-                        total += this._precioMoto;
-                }
+                if (vehiculo == EVehiculos.AUTO && item is Auto)
+                    total += this._precioAuto;
+                else if (vehiculo == EVehiculos.CAMION && item is Camion)
+                    total += this._precioCamion;
+                else if (vehiculo == EVehiculos.MOTO && item is Moto)
+                    total += this._precioMoto;
             }
             return total;
-        }
 
+        }
         public int OrdenarVehiculosPorMarca(Vehiculo a, Vehiculo b)
         {
             if (string.Compare(a.Marca.ToString(), b.Marca.ToString()) == 0)
@@ -150,5 +148,6 @@ namespace TpHerencia
                 return -1;
             return 0;
         }
+        #endregion
     }
 }

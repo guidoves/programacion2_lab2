@@ -37,7 +37,7 @@ namespace TpHerencia
         {
             string vehiculo = "Patente: " + this._patente + "\n" +
                 "Cantidad de ruedas: " + this._cantRuedas.ToString() + "\n" +
-                "Marca: " + this._marca + "\n";
+                "Marca: " + this._marca;
             return vehiculo;
         }
 #endregion

@@ -17,9 +17,14 @@ namespace TpHerencia
 
         public string MostrarMoto()
         {
-            string moto = Mostrar() +
-                this._cilindrada.ToString() + "\n";
-            return moto;
+            StringBuilder moto = new StringBuilder();
+            moto.AppendLine("___________________________________");
+            moto.AppendLine("Tipo de vehiculo: Moto");
+            moto.AppendLine(Mostrar());
+            moto.AppendLine("Cilindrada cc: " + this._cilindrada.ToString());
+            moto.AppendLine("___________________________________");
+
+            return moto.ToString();
         }
     }
 }
