@@ -30,7 +30,7 @@ namespace TestLibreria
             lavadero.Vehiculos.Sort(Lavadero.OrdenarVehiculosPorPatente);
             Console.WriteLine(lavadero.LavaderoInfo);
             Console.WriteLine();
-            Console.WriteLine(lavadero.MostrarTotalFacturado();
+            Console.WriteLine("Total facturado: " + lavadero.MostrarTotalFacturado().ToString("c"));
             Console.ReadLine();
            
         }

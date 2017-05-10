@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase11.1\bin\Debug\clase11.1.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase11.1\bin\Debug\clase11.1.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase11.1\obj\Debug\clase11.1.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase11.1\obj\Debug\clase11.1.pdb
