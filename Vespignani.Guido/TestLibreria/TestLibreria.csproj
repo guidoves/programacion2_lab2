@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TpHerencia\TpHerencia.csproj">
-      <Project>{caa0a839-16cb-4f23-8c42-23002e8acec2}</Project>
-      <Name>TpHerencia</Name>
+    <ProjectReference Include="..\Clase12\Clase12.csproj">
+      <Project>{c90394ca-376b-4d6b-b409-f7e27b51ce90}</Project>
+      <Name>Clase12</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
