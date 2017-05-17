@@ -22,5 +22,5 @@ C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.dll
 C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
 C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TpHerencia.dll
 C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\TpHerencia.pdb
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase12.dll
-C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase12.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase14.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase14.pdb
