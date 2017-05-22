@@ -6,3 +6,11 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\Clase_11
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\ClaseConsola11.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\ClaseConsola11.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\ClaseConsola11.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\Clase_11.dll
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\bin\Debug\Clase_11.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\ClaseConsola11\obj\Debug\ClaseConsola11.pdb

@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase10\bin\Debug\Clase10.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.exe
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\bin\Debug\Clase10.exe.config
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\bin\Debug\Clase10.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\bin\Debug\Clase10.pdb
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.csprojResolveAssemblyReference.cache
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.exe
+C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase10\obj\Debug\Clase10.pdb

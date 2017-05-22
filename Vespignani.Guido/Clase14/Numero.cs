@@ -41,9 +41,6 @@ namespace Clase14
                 Console.WriteLine("No se puede dividir por 0!");
                 return 0;
             }
-            
-       
-            
         }
         
     }

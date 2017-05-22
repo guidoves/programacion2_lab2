@@ -34,10 +34,10 @@ namespace TestLibreria
 
                 cn += n1;
                 cn += n2;
-                cn += n3;
+                ////cn += n3;
                 cn += n4;
                 cn += n5;
-
+                Console.WriteLine(cn.ObtenerDivision);
                 Console.WriteLine(cn);
 
                 cn -= n3;

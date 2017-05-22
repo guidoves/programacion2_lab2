@@ -14,6 +14,13 @@ namespace Clase14
         Negativo,
         Cero
     }
+    public enum ETipoResultado
+	{
+	    Suma,
+        Resta,
+        Multiplicacion,
+        Division
+	}
     public class ColectoraDeNumeros
     {
         protected List<Numero> _numeros;
@@ -22,14 +29,15 @@ namespace Clase14
         {
              
             set;
-            //{
-            //    //ETipoNumero tipo = value;
-            //}
+            
             get;
-            //{
-            //    //return TipoNumero;
-            //}
+            
         }
+        public double ObtenerSuma { get { return ColectoraDeNumeros.ObtenerResultadoColectoraDeNumeros(ETipoResultado.Suma, this); } }
+        public double ObtenerResta { get { return ColectoraDeNumeros.ObtenerResultadoColectoraDeNumeros(ETipoResultado.Resta, this); } }
+        public double ObtenerMultiplicacion { get { return ColectoraDeNumeros.ObtenerResultadoColectoraDeNumeros(ETipoResultado.Multiplicacion, this); } }
+        public double ObtenerDivision { get { return ColectoraDeNumeros.ObtenerResultadoColectoraDeNumeros(ETipoResultado.Division, this); } }
+
 
         private ColectoraDeNumeros()
         {
@@ -38,6 +46,46 @@ namespace Clase14
         public ColectoraDeNumeros(ETipoNumero tipo):this()
         {
             this.TipoNumero = tipo;
+        }
+        protected static double ObtenerResultadoColectoraDeNumeros(ETipoResultado tipo, ColectoraDeNumeros a)
+        {
+            if (a._numeros.Count != 0)
+            {
+                double acumulador = a._numeros[0].Num;
+                foreach (Numero item in a._numeros)
+	            {
+                    if (item == a._numeros[0])
+                        continue;
+                    
+                        switch (tipo)
+                        {
+                            case ETipoResultado.Suma:
+                                acumulador += (double)item.Num;
+                                break;
+                            case ETipoResultado.Resta:
+                                acumulador -= item.Num;
+                                break;
+                            case ETipoResultado.Multiplicacion:
+                                acumulador *= item.Num;
+                                break;
+                            case ETipoResultado.Division:
+                                acumulador = acumulador /  (double)item.Num;
+                                break;
+                        }
+	            }
+                if (double.IsInfinity(acumulador))
+                    throw new Exception("No se puede dividir por 0!");
+                return acumulador;    
+            }
+            else
+            {
+                throw new Exception("No hay numeros en la lista."); 
+            }
+        }
+
+        public static bool VerificarNumero(Numero a, ETipoNumero tipo)
+        {
+
         }
 
         public static bool operator ==(ColectoraDeNumeros a, Numero b)
@@ -98,11 +146,11 @@ namespace Clase14
                 if (item.Num == b.Num)
                 {
                     a._numeros.Remove(item);
-                    break;
+                    return a;
                 }
             }
+            throw new Exception("No se encontro el numero!");
             
-            return a;
         }
         public override string ToString()
         {
