@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16\bin\Debug\Clase16.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16\bin\Debug\Clase16.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16\obj\Debug\Clase16.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16\obj\Debug\Clase16.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16\obj\Debug\Clase16.csprojResolveAssemblyReference.cache
