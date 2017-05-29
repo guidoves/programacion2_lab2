@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase16
+namespace Clase16bis
 {
     public static class Gestion
     {
@@ -12,6 +12,9 @@ namespace Clase16
         {
             return bienPunible.CalcularImpuesto();
         }
-        public static 
+        public static double MostrarImpuestoProvincial(IARBA bienPunible)
+        {
+            return bienPunible.CalcularImpuesto();
+        }
     }
 }
