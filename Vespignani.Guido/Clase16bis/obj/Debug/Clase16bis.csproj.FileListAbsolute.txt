@@ -3,3 +3,8 @@ C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase16bis\bin\Debug\Clase16bis.dl
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase16bis\bin\Debug\Clase16bis.pdb
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase16bis\obj\Debug\Clase16bis.dll
 C:\Users\guido\Desktop\clase\Vespignani.Guido\Clase16bis\obj\Debug\Clase16bis.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16bis\bin\Debug\Clase16bis.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16bis\bin\Debug\Clase16bis.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16bis\obj\Debug\Clase16bis.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16bis\obj\Debug\Clase16bis.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\Clase16bis\obj\Debug\Clase16bis.pdb

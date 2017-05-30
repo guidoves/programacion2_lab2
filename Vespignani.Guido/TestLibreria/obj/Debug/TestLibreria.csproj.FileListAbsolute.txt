@@ -23,3 +23,5 @@ C:\Users\guido\Desktop\asd\Vespignani.Guido\TestLibreria\bin\Debug\Clase7.pdb
 C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase14.dll
 C:\Users\guido\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase14.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase19.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase19.pdb

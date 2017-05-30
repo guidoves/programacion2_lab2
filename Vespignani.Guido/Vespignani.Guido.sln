@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vespignani.Guido.ej3", "Vespignani.Guido.ej3\Vespignani.Guido.ej3.csproj", "{72AE3F8F-3451-44E7-80FA-7434321F21B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej04", "Ej04\Ej04.csproj", "{A732554B-0D0F-44D1-9F1E-2CA73E0DFDCE}"
@@ -44,6 +44,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16", "Clase16\Clase16.csproj", "{F03A7C59-B36F-4811-8925-437BFB689612}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16bis", "Clase16bis\Clase16bis.csproj", "{21FB8EFE-8FFF-4B19-ABBC-E7080C2686B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase19", "Clase19\Clase19.csproj", "{06C63662-8ED5-4365-A3C9-4D0EA04D4578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +141,10 @@ Global
 		{21FB8EFE-8FFF-4B19-ABBC-E7080C2686B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21FB8EFE-8FFF-4B19-ABBC-E7080C2686B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21FB8EFE-8FFF-4B19-ABBC-E7080C2686B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C63662-8ED5-4365-A3C9-4D0EA04D4578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C63662-8ED5-4365-A3C9-4D0EA04D4578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C63662-8ED5-4365-A3C9-4D0EA04D4578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C63662-8ED5-4365-A3C9-4D0EA04D4578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

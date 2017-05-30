@@ -1,0 +1,88 @@
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
+El primer objeto es: Nombre: juan
+Edad: 23
+Es mayor de edad: True
+
+El segundo objeto es: Nombre: Pedro
+Edad: 11
+Es mayor de edad: False
+
