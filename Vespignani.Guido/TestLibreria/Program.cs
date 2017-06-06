@@ -10,6 +10,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Xml.Serialization;
 using System.Xml;
+using EntidadesClase20;
 namespace TestLibreria
 {
     class Program 
@@ -19,80 +20,51 @@ namespace TestLibreria
         {
             try
             {
-                Persona miPersona = new Persona("juan", 23, true);
-                Persona miPersona2 = new Persona("Pedro", 11, false);
-                Persona miPersona3 = new Persona("lucas", 24, true);
-                Persona miPersona4 = new Persona("malena", 30, true);
-                string path = AppDomain.CurrentDomain.BaseDirectory+"archivo.txt";
-                string path2 = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)+"archivo.txt";
-                string path3 = @"C:\Users\alumno\Desktop\archivo.dat";
-                string path4 = @"D:\arch.xml";
-
-                List<Persona> personas = new List<Persona>();
-
-                personas.Add(miPersona);
-                personas.Add(miPersona2);
-                personas.Add(miPersona3);
-                personas.Add(miPersona4);
-
-
-
-                XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
-                XmlTextWriter xmlWri = new XmlTextWriter(path4, Encoding.UTF8);
-
-                xmlSer.Serialize(xmlWri, personas);
-                xmlWri.Close();
-
-                List<Persona> personas2 = new List<Persona>();
-
-                
-
-                //FileStream fileStream = new FileStream(path3, FileMode.Create);
-                //BinaryFormatter binary = new BinaryFormatter();
-                
-                
-
-                
-            
-           
-
-                //using (StreamWriter stream = new StreamWriter(path, true))
-                //{
-                //    stream.Write("El primer objeto es: ");
-                //    stream.WriteLine(miPersona.ToString());
-                //    stream.Write("El segundo objeto es: ");
-                //    stream.WriteLine(miPersona2.ToString());
-                //}
-                //using (StreamReader streamin = new StreamReader(path
-                //    ))
-                //{
-                //    Console.WriteLine(streamin.ReadToEnd());
-                //    //string a = streamin.ReadLine();
-                //    //while (a != null)
-                //    //{
-                //    //    Console.WriteLine(a);
-                //    //    a = streamin.ReadLine();
-                //    //    Console.ReadLine();
-                //    //}
-
-                //}
-
-                //binary.Serialize(fileStream, miPersona);
-                //fileStream.Close();
-                //Persona persona3 = (Persona)binary.Deserialize(new FileStream(path3,FileMode.Open));
-                //Console.WriteLine(persona3.ToString());
-                ////xmlSerializer.Serialize(xmlWriter, miPersona3);
-                ////xmlWriter.Close();
-                ////Persona persona4 = (Persona)xmlSerializer.Deserialize(new XmlTextReader(path4));
-                ////Console.WriteLine(persona4.ToString());  
+                Cocina c1 = new Cocina(111, 12300, false);
+                Cocina c2 = new Cocina(112, 15000, true);
+                Cocina c3 = new Cocina(113, 5600, false);
+                Auto a1 = new Auto("Rojo", "Ferrari");
+                Auto a2 = new Auto("Amarillo", "Porche");
+                Auto a3 = new Auto("Negro", "BMW");
+                Auto a4 = new Auto("Verde", "Ford");
+                Deposito<Cocina> dc = new Deposito<Cocina>(5);
+                Deposito<Auto> da = new Deposito<Auto>(3);
+                dc.Agregar(c1);
+                dc.Agregar(c2);
+                if (!(dc + c3))
+                {
+                    Console.WriteLine("No se pudo agregar el item!!!");
+                }
+                if ((da + a1))
+                {
+                    Console.WriteLine("Se ha agregado el item!!!");
+                }
+                da.Agregar(a2);
+                da.Agregar(a3);
+                if (!da.Agregar(a4))
+                {
+                    Console.WriteLine("No se pudo agregar el item!!!");
+                }
+                Console.WriteLine(dc);
+                Console.WriteLine(da);
+                dc.Remover(c2);
+                if (!(dc - c2))
+                {
+                    Console.WriteLine("No se pudo remover el item!!!");
+                }
+                da.Remover(a2);
+                if (!(da - a4))
+                {
+                    Console.WriteLine("No se pudo remover el item!!!");
+                }
+                Console.WriteLine(dc);
+                Console.WriteLine(da);
+                Console.ReadLine();
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
-             Console.ReadLine();
-            
-           
         }
     }
 }

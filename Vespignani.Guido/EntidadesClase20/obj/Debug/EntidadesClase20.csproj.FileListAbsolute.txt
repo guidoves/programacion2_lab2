@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\EntidadesClase20\bin\Debug\EntidadesClase20.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\EntidadesClase20\bin\Debug\EntidadesClase20.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\EntidadesClase20\obj\Debug\EntidadesClase20.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\EntidadesClase20\obj\Debug\EntidadesClase20.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\EntidadesClase20\obj\Debug\EntidadesClase20.pdb
