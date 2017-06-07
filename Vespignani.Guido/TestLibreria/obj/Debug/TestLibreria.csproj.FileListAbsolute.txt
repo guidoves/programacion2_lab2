@@ -27,3 +27,5 @@ C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase19.dl
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\Clase19.pdb
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\EntidadesClase20.dll
 C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\EntidadesClase20.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\BaseDeDatos21.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\TestLibreria\bin\Debug\BaseDeDatos21.pdb

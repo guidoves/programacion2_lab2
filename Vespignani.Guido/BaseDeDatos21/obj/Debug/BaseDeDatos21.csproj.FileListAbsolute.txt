@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\bin\Debug\BaseDeDatos21.dll.config
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\bin\Debug\BaseDeDatos21.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\bin\Debug\BaseDeDatos21.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\obj\Debug\BaseDeDatos21.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\obj\Debug\BaseDeDatos21.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\BaseDeDatos21\obj\Debug\BaseDeDatos21.csprojResolveAssemblyReference.cache
