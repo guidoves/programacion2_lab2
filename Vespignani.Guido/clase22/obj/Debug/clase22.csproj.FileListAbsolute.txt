@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase22\bin\Debug\clase22.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase22\bin\Debug\clase22.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase22\obj\Debug\clase22.dll
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\clase22\obj\Debug\clase22.pdb
