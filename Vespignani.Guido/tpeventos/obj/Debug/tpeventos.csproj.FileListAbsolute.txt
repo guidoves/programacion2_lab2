@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\bin\Debug\tpeventos.exe.config
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\bin\Debug\tpeventos.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\bin\Debug\tpeventos.pdb
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.Form1.resources
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.Form2.resources
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.Form3.resources
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.Properties.Resources.resources
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.exe
+C:\Users\alumno\Desktop\clase\Vespignani.Guido\tpeventos\obj\Debug\tpeventos.pdb

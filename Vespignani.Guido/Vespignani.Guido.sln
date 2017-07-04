@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesClase20", "Entidad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDeDatos21", "BaseDeDatos21\BaseDeDatos21.csproj", "{49F4E73A-310A-4DEF-94B6-AFAB0069A241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpeventos", "tpeventos\tpeventos.csproj", "{960C6747-78D6-4DE8-8127-3F3955F5EDF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{49F4E73A-310A-4DEF-94B6-AFAB0069A241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F4E73A-310A-4DEF-94B6-AFAB0069A241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F4E73A-310A-4DEF-94B6-AFAB0069A241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960C6747-78D6-4DE8-8127-3F3955F5EDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960C6747-78D6-4DE8-8127-3F3955F5EDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960C6747-78D6-4DE8-8127-3F3955F5EDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960C6747-78D6-4DE8-8127-3F3955F5EDF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
