@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tpeventos
 {
-    public partial class Form2 : Form
+    public partial class FrmTestDelegados : Form
     {
-        public Form2()
+        public FrmTestDelegados()
         {
             InitializeComponent();
         }
@@ -21,7 +21,7 @@ namespace tpeventos
         {
             try
             {
-                ((Form1)this.Owner).del(this.textBox1.Text);
+                ((FrmPrincipal)this.Owner).del(this.textBox1.Text);
             }
             catch (Exception ex)
             {

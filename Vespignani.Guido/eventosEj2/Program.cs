@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace tpeventos
+namespace eventosEj2
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace tpeventos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrincipal());
+            Application.Run(new frmPrincipal());
         }
     }
 }

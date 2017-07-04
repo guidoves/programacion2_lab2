@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tpeventos
 {
-    public partial class Form3 : Form
+    public partial class FrmDatos : Form
     {
-        public Form3()
+        public FrmDatos()
         {
             InitializeComponent();
         }
@@ -29,7 +29,7 @@ namespace tpeventos
 
         private void Form3_FormClosed(object sender, FormClosedEventArgs e)
         {
-            ((Form1)this.Owner).del -= this.Manejador;
+            ((FrmPrincipal)this.Owner).del -= this.Manejador;
         }
 
          
