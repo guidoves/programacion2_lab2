@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicafinal", "practicafinal\practicafinal.csproj", "{F086DDD8-A691-435C-8F6C-7D60544BBCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{376E0922-BDEC-427C-A977-D9419D8A9794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F086DDD8-A691-435C-8F6C-7D60544BBCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F086DDD8-A691-435C-8F6C-7D60544BBCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F086DDD8-A691-435C-8F6C-7D60544BBCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F086DDD8-A691-435C-8F6C-7D60544BBCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376E0922-BDEC-427C-A977-D9419D8A9794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376E0922-BDEC-427C-A977-D9419D8A9794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376E0922-BDEC-427C-A977-D9419D8A9794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376E0922-BDEC-427C-A977-D9419D8A9794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

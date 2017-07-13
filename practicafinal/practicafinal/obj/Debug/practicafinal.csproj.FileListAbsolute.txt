@@ -1,0 +1,5 @@
+c:\users\guido\documents\visual studio 2012\Projects\practicafinal\practicafinal\bin\Debug\practicafinal.dll
+c:\users\guido\documents\visual studio 2012\Projects\practicafinal\practicafinal\bin\Debug\practicafinal.pdb
+c:\users\guido\documents\visual studio 2012\Projects\practicafinal\practicafinal\obj\Debug\practicafinal.csprojResolveAssemblyReference.cache
+c:\users\guido\documents\visual studio 2012\Projects\practicafinal\practicafinal\obj\Debug\practicafinal.dll
+c:\users\guido\documents\visual studio 2012\Projects\practicafinal\practicafinal\obj\Debug\practicafinal.pdb
